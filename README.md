@@ -1,1 +1,1 @@
-# EcommerceStores.github.io
+# Ecommerce.github.io
